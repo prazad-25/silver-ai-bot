@@ -1,6 +1,6 @@
 import requests
 
-# BOT_TOKEN = "8537563016:AAHMjz-5hfEjUTVADjC5aTOBInw7az7TNh0"
+# BOT_TOKEN = "8537563016:AAF2XJEiSkusFYwWIhdUjWwpcsMlFOnfjFI"
 # CHAT_ID = "1249041894"
 import os
 

@@ -88,7 +88,7 @@ while True:
 
             log_trade([now, f"OPEN {signal}", price, "-", "-", capital])
 
-        time.sleep(300)  # Wait 5 minutes
+        time.sleep(180)  # Wait 5 minutes
 
     except Exception as e:
         print("Error:", e)
