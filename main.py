@@ -43,7 +43,6 @@ async def signal_runner():
 
                 # Send only if new BUY/SELL signal
                 # if current_signal in ["BUY", "SELL"] and current_signal != last_signal:
-                send_telegram_message("Bot is alive 🚀")
 
                 if current_signal in ["BUY", "SELL"] and current_signal != last_signal:
                 
